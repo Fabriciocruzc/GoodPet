@@ -5,3 +5,4 @@ Sistema de genrenciamento de clinica veterinaria, que tem as funcionalidades de 
 - NetBeans
 - PostgreSQL
 - Na tela de login em usuario = admin, senha = 123
+- Passar o arquivo sql para o postgreSQL
