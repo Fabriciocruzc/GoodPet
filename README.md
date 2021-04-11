@@ -4,3 +4,4 @@ Sistema de genrenciamento de clinica veterinaria, que tem as funcionalidades de 
 - JDK11
 - NetBeans
 - PostgreSQL
+- Na tela de login em usuario = admin, senha = 123
